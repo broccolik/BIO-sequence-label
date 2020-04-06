@@ -15,7 +15,21 @@ word_dict.txt文件如下图所示：<br>
 
 
 标注好的数据如下图所示。<br>
-![标注好的数据](image/text_labeled.jpg)<br>
+启 B-INT<br>
+迪 I-INT<br>
+设 I-INT<br>
+计 I-INT<br>
+集 I-INT<br>
+团 I-INT<br>
+股 I-INT<br>
+份 I-INT<br>
+有 I-INT<br>
+限 I-INT<br>
+公 I-INT<br>
+司 I-INT<br>
+于 O <br>
+今 O<br>
+日 O<br>
 
 
 
