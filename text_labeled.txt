@@ -1,0 +1,22 @@
+盈 B-INT
+方 B-INT
+微 B-INT
+电 B-INT
+子 B-INT
+股 B-INT
+份 B-INT
+有 B-INT
+限 B-INT
+公 B-INT
+司 B-INT
+（ O
+股 O
+票 O
+简 O
+称 O
+：O
+* O
+S O
+T O
+盈 O
+...
