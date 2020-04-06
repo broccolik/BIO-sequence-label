@@ -4,6 +4,7 @@
 基于外部词典对数据进行标注  BIO方式
 Author:西兰
 Date：2019-8-26
+E-mail:zhkinfo@163.com
 '''
 
 
