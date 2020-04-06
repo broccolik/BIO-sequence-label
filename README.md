@@ -9,11 +9,15 @@ INT与BON为文本对应的标签。</br>
 占位词 NONE，这一行必须要有，作为词典的停止关键词</br>
 
 word_dict.txt文件如下图所示：<br>
-![]()
+![word_dict.txt](image/word_dict.jpg)<br>
 
 
 
 标注好的数据如下图所示。<br>
+![标注好的数据](image/text_labeled.jpg)<br>
+
+有问题可提issues。
+
 
 
 
