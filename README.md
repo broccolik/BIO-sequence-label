@@ -33,7 +33,7 @@ word_dict.txt文件如下图所示：<br>
 
 
 
-有问题可提issues。
+有问题可提issues。觉得有用的话，欢迎star~
 
 
 
